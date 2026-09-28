@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 90">
+  <rect width="160" height="90" fill="#1f1f1f"/>
+  <rect x="66" y="27" width="28" height="28" rx="8" fill="#2c2c2c" stroke="#3d3d3d" stroke-width="1.5"/>
+  <path d="M75 34.5v13l11-6.5z" fill="#555"/>
+  <text x="80" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#666">No Thumbnail</text>
+</svg>
